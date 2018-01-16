@@ -1,0 +1,2 @@
+# HOAXiere-Theme
+Discord theme
